@@ -14,3 +14,8 @@
 ### Follow me
 ![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)
 ![Vkontakte](https://img.shields.io/badge/-Vkontakte-0077FF?styel=for-the-badge&logo=VK&logoColor=FFF2ED)
+
+
+
+### Stats card
+[![AzatNu's github stats](https://github-readme-stats.vercel.app/api?username=AzatNu&show_icons=true)](https://github.com/AzatNu/github/readme-stats)
