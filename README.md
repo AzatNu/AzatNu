@@ -11,4 +11,6 @@
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-0078B9?styel=for-the-badge&logo=VisualStudio&logoColo=0078B9)
 ![GitGUI](https://img.shields.io/badge/-GitGUI-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1)
 
-Follow me
+### Follow me
+![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-0077FF?styel=for-the-badge&logo=VK&logoColor=FFF2ED)
